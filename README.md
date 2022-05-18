@@ -1,0 +1,2 @@
+# Suffer-Db
+Discord Suffer
